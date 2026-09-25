@@ -7,14 +7,12 @@
 PHP & Laravel Developer • MCA Graduate • Backend Developer  
 🚀 Web Development • Backend Technologies • Continuous Learning
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjoy011)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
+
 
 - 🎓 MCA Graduate
 - 💻 Passionate Web Developer
@@ -61,17 +59,12 @@ PHP & Laravel Developer • MCA Graduate • Backend Developer
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjoy011&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sanjoy011&theme=tokyonight)
 
 </div>
 
 ---
 
-
-
----
 
 <div align="center">
 
