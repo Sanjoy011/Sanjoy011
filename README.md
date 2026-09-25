@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sanjoy Maity
+# 👋 Hi, I'm SANJOY MAITY
 
 ### 💻 Full Stack Web Developer
 
@@ -21,7 +21,6 @@ PHP & Laravel Developer • MCA Graduate • Backend Developer
 - 🚀 Backend & Web Development
 - 🔥 PHP & Laravel Developer
 - 📚 Currently improving my JavaScript, React & Node.js skills
-- 🌱 Always learning and building real-world projects
 
 ---
 
@@ -53,10 +52,9 @@ PHP & Laravel Developer • MCA Graduate • Backend Developer
 
 | Project | Description |
 |--------|-------------|
-| 🔥 Project 1 | Your project description |
-| 🚀 Project 2 | Your project description |
-| 💻 Project 3 | Your project description |
-
+| 🔥 Quiz Management System | A Laravel-based online quiz platform with admin panel, question management, user authentication, quiz attempts, scoring, and result tracking. |
+| 🚀 Employee Management System | A Laravel-based employee management application for managing employees, departments, attendance, profiles, and administrative records. |
+| 💻 E-Commerce Management System | A Laravel-based online shopping platform with product management, categories, cart, orders, users, and admin dashboard. |
 ---
 
 ## 📊 GitHub Stats
@@ -75,7 +73,7 @@ PHP & Laravel Developer • MCA Graduate • Backend Developer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([(https://www.linkedin.com/in/sanjoy-maity-519347293/)(https://www.linkedin.com/in/sanjoy-maity-519347293/))
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Sanjoy011)
 
