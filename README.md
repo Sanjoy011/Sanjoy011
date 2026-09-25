@@ -69,15 +69,7 @@ PHP & Laravel Developer • MCA Graduate • Backend Developer
 
 ---
 
-## 🤝 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([(https://www.linkedin.com/in/sanjoy-maity-519347293/)(https://www.linkedin.com/in/sanjoy-maity-519347293/))
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Sanjoy011)
-
-</div>
 
 ---
 
